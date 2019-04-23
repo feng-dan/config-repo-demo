@@ -1,0 +1,7 @@
+server:
+  port: 8111
+info:
+  profile: test
+spring:
+  application:
+    name: product-server
